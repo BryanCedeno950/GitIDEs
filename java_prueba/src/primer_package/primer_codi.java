@@ -34,6 +34,7 @@ public class primer_codi {
         String nom = "<Bryan>"; 
         System.out.printf("Tinc %d anys", nom);
 
+        //Hacemos ahora un texto desde el IDE Eclipse :)
 
     }
 }
